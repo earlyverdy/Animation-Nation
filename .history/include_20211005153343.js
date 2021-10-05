@@ -5471,11 +5471,10 @@ let cards = [
     githubLink: 'https://github.com/Rayologist'
   },
   {
-    artName: "Animatron"
-    pageLink: './Art/animatron/index.html',
-    imageLink: './Art/animatron/trance.gif',
-    author: 'Angelica',
-    githubLink: 'https://github.com/sullano831'
+    pageLink: './Art/Joy/triangle/triangle.html',
+    imageLink: './Art/Joy/triangle/triangle.gif',
+    author: 'Joy',
+    githubLink: 'https://github.com/royranger'
   }
 ];
 // +--------------------------------------------------------------------------------+

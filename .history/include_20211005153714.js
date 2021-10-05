@@ -5475,7 +5475,7 @@ let cards = [
     pageLink: './Art/animatron/index.html',
     imageLink: './Art/animatron/trance.gif',
     author: 'Angelica',
-    githubLink: 'https://github.com/sullano831'
+    githubLink: 'https://github.com/royranger'
   }
 ];
 // +--------------------------------------------------------------------------------+
